@@ -1,0 +1,1328 @@
+# depslib dependency file v1.0
+1291997312 source:c:\documents and settings\user\my documents\faculty work\4th term\programming ii\cb projects\programming 2\projectna2\hashtable.cpp
+	"hashTable.h"
+
+1291725824 c:\documents and settings\user\my documents\faculty work\4th term\programming ii\cb projects\programming 2\projectna2\hashtable.h
+	<iostream>
+	<string>
+
+1292001711 source:c:\documents and settings\user\my documents\faculty work\4th term\programming ii\cb projects\programming 2\projectna2\main.cpp
+	<iostream>
+	"sicAssembler.h"
+
+1292009577 source:c:\documents and settings\user\my documents\faculty work\4th term\programming ii\cb projects\programming 2\projectna2\parser.cpp
+	"parser.h"
+	"Instruction.h"
+	<string>
+	<iostream>
+	<fstream>
+
+1292001482 c:\documents and settings\user\my documents\faculty work\4th term\programming ii\cb projects\programming 2\projectna2\parser.h
+	<string>
+	<iostream>
+	"hashTable.h"
+	"Instruction.h"
+
+1291997242 c:\documents and settings\user\my documents\faculty work\4th term\programming ii\cb projects\programming 2\projectna2\instruction.h
+	<iostream>
+	<string>
+
+1292000344 c:\documents and settings\user\my documents\faculty work\4th term\programming ii\cb projects\programming 2\projectna2\sicassembler.h
+	"assembler.h"
+	<string>
+	"sicParser.h"
+	<fstream>
+	"Instruction.h"
+
+1292000081 c:\documents and settings\user\my documents\faculty work\4th term\programming ii\cb projects\programming 2\projectna2\assembler.h
+	"hashTable.h"
+	<string>
+	<fstream>
+	"Instruction.h"
+	"parser.h"
+
+1292000855 c:\documents and settings\user\my documents\faculty work\4th term\programming ii\cb projects\programming 2\projectna2\sicparser.h
+	"hashTable.h"
+	"parser.h"
+
+1292001880 source:c:\documents and settings\user\my documents\faculty work\4th term\programming ii\cb projects\programming 2\projectna2\sicassembler.cpp
+	"sicAssembler.h"
+	<string>
+	"hashTable.h"
+	"sicParser.h"
+
+1292009637 source:c:\documents and settings\user\my documents\faculty work\4th term\programming ii\cb projects\programming 2\projectna2\sicparser.cpp
+	"sicParser.h"
+	"hashTable.h"
+	<string>
+
+1292009674 source:c:\documents and settings\user\my documents\faculty work\4th term\programming ii\cb projects\programming 2\projectna2\instruction.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<iomanip>
+	"Instruction.h"
+
+1291997312 source:c:\users\sameh\desktop\projectna2\hashtable.cpp
+	"hashTable.h"
+
+1291725824 c:\users\sameh\desktop\projectna2\hashtable.h
+	<iostream>
+	<string>
+
+1292001711 source:c:\users\sameh\desktop\projectna2\main.cpp
+	<iostream>
+	"sicAssembler.h"
+
+1292000344 c:\users\sameh\desktop\projectna2\sicassembler.h
+	"assembler.h"
+	<string>
+	"sicParser.h"
+	<fstream>
+	"Instruction.h"
+
+1292000081 c:\users\sameh\desktop\projectna2\assembler.h
+	"hashTable.h"
+	<string>
+	<fstream>
+	"Instruction.h"
+	"parser.h"
+
+1291997242 c:\users\sameh\desktop\projectna2\instruction.h
+	<iostream>
+	<string>
+
+1292001482 c:\users\sameh\desktop\projectna2\parser.h
+	<string>
+	<iostream>
+	"hashTable.h"
+	"Instruction.h"
+
+1292000855 c:\users\sameh\desktop\projectna2\sicparser.h
+	"hashTable.h"
+	"parser.h"
+
+1292016316 source:c:\users\sameh\desktop\projectna2\parser.cpp
+	"parser.h"
+	"Instruction.h"
+	<string>
+	<iostream>
+	<fstream>
+
+1292001880 source:c:\users\sameh\desktop\projectna2\sicassembler.cpp
+	"sicAssembler.h"
+	<string>
+	"hashTable.h"
+	"sicParser.h"
+
+1292016181 source:c:\users\sameh\desktop\projectna2\sicparser.cpp
+	"sicParser.h"
+	"hashTable.h"
+	<string>
+
+1292013919 source:c:\users\sameh\desktop\projectna2\instruction.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<iomanip>
+	"Instruction.h"
+
+1291997312 source:c:\documents and settings\user\desktop\projectna2\hashtable.cpp
+	"hashTable.h"
+
+1291725824 c:\documents and settings\user\desktop\projectna2\hashtable.h
+	<iostream>
+	<string>
+
+1292001711 source:c:\documents and settings\user\desktop\projectna2\main.cpp
+	<iostream>
+	"sicAssembler.h"
+
+1292000344 c:\documents and settings\user\desktop\projectna2\sicassembler.h
+	"assembler.h"
+	<string>
+	"sicParser.h"
+	<fstream>
+	"Instruction.h"
+
+1292000081 c:\documents and settings\user\desktop\projectna2\assembler.h
+	"hashTable.h"
+	<string>
+	<fstream>
+	"Instruction.h"
+	"parser.h"
+
+1291997242 c:\documents and settings\user\desktop\projectna2\instruction.h
+	<iostream>
+	<string>
+
+1292001482 c:\documents and settings\user\desktop\projectna2\parser.h
+	<string>
+	<iostream>
+	"hashTable.h"
+	"Instruction.h"
+
+1292000855 c:\documents and settings\user\desktop\projectna2\sicparser.h
+	"hashTable.h"
+	"parser.h"
+
+1292027126 source:c:\documents and settings\user\desktop\projectna2\parser.cpp
+	"parser.h"
+	"Instruction.h"
+	<string>
+	<iostream>
+	<fstream>
+
+1292029600 source:c:\documents and settings\user\desktop\projectna2\sicassembler.cpp
+	"sicAssembler.h"
+	<string>
+	"hashTable.h"
+	"sicParser.h"
+
+1292029259 source:c:\documents and settings\user\desktop\projectna2\sicparser.cpp
+	"sicParser.h"
+	"hashTable.h"
+	<string>
+
+1292013919 source:c:\documents and settings\user\desktop\projectna2\instruction.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<iomanip>
+	"Instruction.h"
+
+1292033187 source:c:\users\user\desktop\projectna2\hashtable.cpp
+	"hashTable.h"
+
+1291725824 c:\users\user\desktop\projectna2\hashtable.h
+	<iostream>
+	<string>
+
+1292001711 source:c:\users\user\desktop\projectna2\main.cpp
+	<iostream>
+	"sicAssembler.h"
+
+1292000344 c:\users\user\desktop\projectna2\sicassembler.h
+	"assembler.h"
+	<string>
+	"sicParser.h"
+	<fstream>
+	"Instruction.h"
+
+1292000081 c:\users\user\desktop\projectna2\assembler.h
+	"hashTable.h"
+	<string>
+	<fstream>
+	"Instruction.h"
+	"parser.h"
+
+1291997242 c:\users\user\desktop\projectna2\instruction.h
+	<iostream>
+	<string>
+
+1292001482 c:\users\user\desktop\projectna2\parser.h
+	<string>
+	<iostream>
+	"hashTable.h"
+	"Instruction.h"
+
+1292000855 c:\users\user\desktop\projectna2\sicparser.h
+	"hashTable.h"
+	"parser.h"
+
+1292027126 source:c:\users\user\desktop\projectna2\parser.cpp
+	"parser.h"
+	"Instruction.h"
+	<string>
+	<iostream>
+	<fstream>
+
+1292029600 source:c:\users\user\desktop\projectna2\sicassembler.cpp
+	"sicAssembler.h"
+	<string>
+	"hashTable.h"
+	"sicParser.h"
+
+1292029259 source:c:\users\user\desktop\projectna2\sicparser.cpp
+	"sicParser.h"
+	"hashTable.h"
+	<string>
+
+1292013919 source:c:\users\user\desktop\projectna2\instruction.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<iomanip>
+	"Instruction.h"
+
+1292033187 source:c:\documents and settings\user\my documents\faculty work\5th term\systems programming\project\projectna2\hashtable.cpp
+	"hashTable.h"
+
+1291725824 c:\documents and settings\user\my documents\faculty work\5th term\systems programming\project\projectna2\hashtable.h
+	<iostream>
+	<string>
+
+1292262146 source:c:\documents and settings\user\my documents\faculty work\5th term\systems programming\project\projectna2\main.cpp
+	<iostream>
+	"sicAssembler.h"
+
+1292000344 c:\documents and settings\user\my documents\faculty work\5th term\systems programming\project\projectna2\sicassembler.h
+	"assembler.h"
+	<string>
+	"sicParser.h"
+	<fstream>
+	"Instruction.h"
+
+1292000081 c:\documents and settings\user\my documents\faculty work\5th term\systems programming\project\projectna2\assembler.h
+	"hashTable.h"
+	<string>
+	<fstream>
+	"Instruction.h"
+	"parser.h"
+
+1292276616 c:\documents and settings\user\my documents\faculty work\5th term\systems programming\project\projectna2\instruction.h
+	<iostream>
+	<string>
+
+1292001482 c:\documents and settings\user\my documents\faculty work\5th term\systems programming\project\projectna2\parser.h
+	<string>
+	<iostream>
+	"hashTable.h"
+	"Instruction.h"
+
+1292000855 c:\documents and settings\user\my documents\faculty work\5th term\systems programming\project\projectna2\sicparser.h
+	"hashTable.h"
+	"parser.h"
+
+1292276943 source:c:\documents and settings\user\my documents\faculty work\5th term\systems programming\project\projectna2\parser.cpp
+	"parser.h"
+	"Instruction.h"
+	<string>
+	<iostream>
+	<fstream>
+
+1292029600 source:c:\documents and settings\user\my documents\faculty work\5th term\systems programming\project\projectna2\sicassembler.cpp
+	"sicAssembler.h"
+	<string>
+	"hashTable.h"
+	"sicParser.h"
+
+1292084214 source:c:\documents and settings\user\my documents\faculty work\5th term\systems programming\project\projectna2\sicparser.cpp
+	"sicParser.h"
+	"hashTable.h"
+	<string>
+
+1292262982 source:c:\documents and settings\user\my documents\faculty work\5th term\systems programming\project\projectna2\instruction.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<iomanip>
+	"Instruction.h"
+
+1292033187 source:c:\documents and settings\isot\desktop\projectna2\hashtable.cpp
+	"hashTable.h"
+
+1291725824 c:\documents and settings\isot\desktop\projectna2\hashtable.h
+	<iostream>
+	<string>
+
+1292262146 source:c:\documents and settings\isot\desktop\projectna2\main.cpp
+	<iostream>
+	"sicAssembler.h"
+
+1292000344 c:\documents and settings\isot\desktop\projectna2\sicassembler.h
+	"assembler.h"
+	<string>
+	"sicParser.h"
+	<fstream>
+	"Instruction.h"
+
+1292000081 c:\documents and settings\isot\desktop\projectna2\assembler.h
+	"hashTable.h"
+	<string>
+	<fstream>
+	"Instruction.h"
+	"parser.h"
+
+1292276616 c:\documents and settings\isot\desktop\projectna2\instruction.h
+	<iostream>
+	<string>
+
+1292001482 c:\documents and settings\isot\desktop\projectna2\parser.h
+	<string>
+	<iostream>
+	"hashTable.h"
+	"Instruction.h"
+
+1292000855 c:\documents and settings\isot\desktop\projectna2\sicparser.h
+	"hashTable.h"
+	"parser.h"
+
+1292029600 source:c:\documents and settings\isot\desktop\projectna2\sicassembler.cpp
+	"sicAssembler.h"
+	<string>
+	"hashTable.h"
+	"sicParser.h"
+
+1292084214 source:c:\documents and settings\isot\desktop\projectna2\sicparser.cpp
+	"sicParser.h"
+	"hashTable.h"
+	<string>
+
+1292262982 source:c:\documents and settings\isot\desktop\projectna2\instruction.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<iomanip>
+	"Instruction.h"
+
+1292351345 source:c:\documents and settings\isot\desktop\projectna2\parser.cpp
+	"parser.h"
+	"Instruction.h"
+	<string>
+	<iostream>
+	<fstream>
+
+1292262146 source:c:\documents and settings\isot\desktop\projectna3\main.cpp
+	<iostream>
+	"sicAssembler.h"
+
+1292000344 c:\documents and settings\isot\desktop\projectna3\sicassembler.h
+	"assembler.h"
+	<string>
+	"sicParser.h"
+	<fstream>
+	"Instruction.h"
+
+1292000081 c:\documents and settings\isot\desktop\projectna3\assembler.h
+	"hashTable.h"
+	<string>
+	<fstream>
+	"Instruction.h"
+	"parser.h"
+
+1292361616 c:\documents and settings\isot\desktop\projectna3\hashtable.h
+	<iostream>
+	<string>
+
+1292276616 c:\documents and settings\isot\desktop\projectna3\instruction.h
+	<iostream>
+	<string>
+
+1292001482 c:\documents and settings\isot\desktop\projectna3\parser.h
+	<string>
+	<iostream>
+	"hashTable.h"
+	"Instruction.h"
+
+1292000855 c:\documents and settings\isot\desktop\projectna3\sicparser.h
+	"hashTable.h"
+	"parser.h"
+
+1292364811 source:c:\documents and settings\isot\desktop\projectna3\parser.cpp
+	"parser.h"
+	"Instruction.h"
+	<string>
+	<iostream>
+	<fstream>
+
+1292029600 source:c:\documents and settings\isot\desktop\projectna3\sicassembler.cpp
+	"sicAssembler.h"
+	<string>
+	"hashTable.h"
+	"sicParser.h"
+
+1292364038 source:c:\documents and settings\isot\desktop\projectna3\sicparser.cpp
+	"sicParser.h"
+	"hashTable.h"
+	<string>
+
+1292365393 source:c:\documents and settings\isot\desktop\projectna3\instruction.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<iomanip>
+	"Instruction.h"
+
+1292361966 source:c:\documents and settings\isot\desktop\projectna3\hashtable.cpp
+	"hashTable.h"
+
+1292534247 source:c:\documents and settings\isot\desktop\projectna4\hashtable.cpp
+	"hashTable.h"
+
+1292534025 c:\documents and settings\isot\desktop\projectna4\hashtable.h
+	<iostream>
+	<string>
+
+1292411954 source:c:\documents and settings\isot\desktop\projectna4\main.cpp
+	<iostream>
+	"sicxeAssembler.h"
+
+1292409103 c:\documents and settings\isot\desktop\projectna4\sicassembler.h
+	"assembler.h"
+	<string>
+	"sicParser.h"
+	<fstream>
+	"Instruction.h"
+
+1292000081 c:\documents and settings\isot\desktop\projectna4\assembler.h
+	"hashTable.h"
+	<string>
+	<fstream>
+	"Instruction.h"
+	"parser.h"
+
+1292410125 c:\documents and settings\isot\desktop\projectna4\instruction.h
+	<iostream>
+	<string>
+
+1292001482 c:\documents and settings\isot\desktop\projectna4\parser.h
+	<string>
+	<iostream>
+	"hashTable.h"
+	"Instruction.h"
+
+1292000855 c:\documents and settings\isot\desktop\projectna4\sicparser.h
+	"hashTable.h"
+	"parser.h"
+
+1292364811 source:c:\documents and settings\isot\desktop\projectna4\parser.cpp
+	"parser.h"
+	"Instruction.h"
+	<string>
+	<iostream>
+	<fstream>
+
+1292029600 source:c:\documents and settings\isot\desktop\projectna4\sicassembler.cpp
+	"sicAssembler.h"
+	<string>
+	"hashTable.h"
+	"sicParser.h"
+
+1292364038 source:c:\documents and settings\isot\desktop\projectna4\sicparser.cpp
+	"sicParser.h"
+	"hashTable.h"
+	<string>
+
+1292365678 source:c:\documents and settings\isot\desktop\projectna4\instruction.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<iomanip>
+	"Instruction.h"
+
+1292590922 source:c:\documents and settings\isot\desktop\projectna4\sicxeassembler.cpp
+	"sicxeAssembler.h"
+	<string>
+	"hashTable.h"
+	"sicParser.h"
+
+1292410044 c:\documents and settings\isot\desktop\projectna4\sicxeassembler.h
+	"assembler.h"
+	<string>
+	"sicxeParser.h"
+	<fstream>
+	"Instruction.h"
+
+1292537711 c:\documents and settings\isot\desktop\projectna4\sicxeparser.h
+	"hashTable.h"
+	"parser.h"
+
+1292591394 source:c:\documents and settings\isot\desktop\projectna4\sicxeparser.cpp
+	"sicxeParser.h"
+	"hashTable.h"
+	<string>
+
+1292879182 source:c:\documents and settings\isot\desktop\projectna6\instruction.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<iomanip>
+	"Instruction.h"
+
+1292410125 c:\documents and settings\isot\desktop\projectna6\instruction.h
+	<iostream>
+	<string>
+
+1292534247 source:c:\documents and settings\isot\desktop\projectna6\hashtable.cpp
+	"hashTable.h"
+
+1292534025 c:\documents and settings\isot\desktop\projectna6\hashtable.h
+	<iostream>
+	<string>
+
+1293394815 source:c:\documents and settings\isot\desktop\projectna6\main.cpp
+	<iostream>
+	<string>
+	"sicAssembler.h"
+	<sstream>
+
+1292410044 c:\documents and settings\isot\desktop\projectna6\sicxeassembler.h
+	"assembler.h"
+	<string>
+	"sicxeParser.h"
+	<fstream>
+	"Instruction.h"
+
+1293208479 c:\documents and settings\isot\desktop\projectna6\assembler.h
+	"hashTable.h"
+	<string>
+	<fstream>
+	"Instruction.h"
+	"parser.h"
+	"obcode.h"
+
+1292795729 c:\documents and settings\isot\desktop\projectna6\parser.h
+	<string>
+	<iostream>
+	"hashTable.h"
+	"Instruction.h"
+
+1292537711 c:\documents and settings\isot\desktop\projectna6\sicxeparser.h
+	"hashTable.h"
+	"parser.h"
+
+1292795729 source:c:\documents and settings\isot\desktop\projectna6\parser.cpp
+	"parser.h"
+	"Instruction.h"
+	<string>
+	<iostream>
+	<fstream>
+
+1293395574 source:c:\documents and settings\isot\desktop\projectna6\sicassembler.cpp
+	"sicAssembler.h"
+	<string.h>
+	"hashTable.h"
+	"sicParser.h"
+	<fstream>
+	<iomanip>
+	<iostream>
+
+1293389384 c:\documents and settings\isot\desktop\projectna6\sicassembler.h
+	"assembler.h"
+	"sicParser.h"
+	<fstream>
+	"Instruction.h"
+	<iomanip>
+	"obcode.h"
+	<string>
+
+1292000855 c:\documents and settings\isot\desktop\projectna6\sicparser.h
+	"hashTable.h"
+	"parser.h"
+
+1292364038 source:c:\documents and settings\isot\desktop\projectna6\sicparser.cpp
+	"sicParser.h"
+	"hashTable.h"
+	<string>
+
+1292590922 source:c:\documents and settings\isot\desktop\projectna6\sicxeassembler.cpp
+	"sicxeAssembler.h"
+	<string>
+	"hashTable.h"
+	"sicParser.h"
+
+1292785478 source:c:\documents and settings\isot\desktop\projectna6\sicxeparser.cpp
+	"sicxeParser.h"
+	"hashTable.h"
+	<string>
+
+1293395623 source:c:\documents and settings\isot\desktop\projectna6\obcode.cpp
+	"obcode.h"
+	<iomanip>
+	<sstream>
+
+1293396709 c:\documents and settings\isot\desktop\projectna6\obcode.h
+	<string>
+
+1293485282 source:c:\documents and settings\isot\desktop\projectna7\instruction.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<iomanip>
+	"Instruction.h"
+
+1292410125 c:\documents and settings\isot\desktop\projectna7\instruction.h
+	<iostream>
+	<string>
+
+1292534247 source:c:\documents and settings\isot\desktop\projectna7\hashtable.cpp
+	"hashTable.h"
+
+1292534025 c:\documents and settings\isot\desktop\projectna7\hashtable.h
+	<iostream>
+	<string>
+
+1293479418 source:c:\documents and settings\isot\desktop\projectna7\main.cpp
+	<iostream>
+	<string>
+	"sicAssembler.h"
+	<sstream>
+
+1293479220 c:\documents and settings\isot\desktop\projectna7\sicassembler.h
+	"assembler.h"
+	"sicParser.h"
+	<fstream>
+	"Instruction.h"
+	<iomanip>
+	"obcode.h"
+	<string>
+
+1293208479 c:\documents and settings\isot\desktop\projectna7\assembler.h
+	"hashTable.h"
+	<string>
+	<fstream>
+	"Instruction.h"
+	"parser.h"
+	"obcode.h"
+
+1292795729 c:\documents and settings\isot\desktop\projectna7\parser.h
+	<string>
+	<iostream>
+	"hashTable.h"
+	"Instruction.h"
+
+1293488470 c:\documents and settings\isot\desktop\projectna7\obcode.h
+	<string>
+
+1292000855 c:\documents and settings\isot\desktop\projectna7\sicparser.h
+	"hashTable.h"
+	"parser.h"
+
+1293488455 source:c:\documents and settings\isot\desktop\projectna7\obcode.cpp
+	"obcode.h"
+	<iomanip>
+	<sstream>
+	<iostream>
+
+1292795729 source:c:\documents and settings\isot\desktop\projectna7\parser.cpp
+	"parser.h"
+	"Instruction.h"
+	<string>
+	<iostream>
+	<fstream>
+
+1293489826 source:c:\documents and settings\isot\desktop\projectna7\sicassembler.cpp
+	"sicAssembler.h"
+	<string.h>
+	"hashTable.h"
+	"sicParser.h"
+	<fstream>
+	<iomanip>
+	<iostream>
+	<sstream>
+
+1292364038 source:c:\documents and settings\isot\desktop\projectna7\sicparser.cpp
+	"sicParser.h"
+	"hashTable.h"
+	<string>
+
+1292590922 source:c:\documents and settings\isot\desktop\projectna7\sicxeassembler.cpp
+	"sicxeAssembler.h"
+	<string>
+	"hashTable.h"
+	"sicParser.h"
+
+1292410044 c:\documents and settings\isot\desktop\projectna7\sicxeassembler.h
+	"assembler.h"
+	<string>
+	"sicxeParser.h"
+	<fstream>
+	"Instruction.h"
+
+1292537711 c:\documents and settings\isot\desktop\projectna7\sicxeparser.h
+	"hashTable.h"
+	"parser.h"
+
+1292785478 source:c:\documents and settings\isot\desktop\projectna7\sicxeparser.cpp
+	"sicxeParser.h"
+	"hashTable.h"
+	<string>
+
+1293485282 source:c:\documents and settings\user\my documents\projectna7\instruction.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<iomanip>
+	"Instruction.h"
+
+1292410125 c:\documents and settings\user\my documents\projectna7\instruction.h
+	<iostream>
+	<string>
+
+1292534247 source:c:\documents and settings\user\my documents\projectna7\hashtable.cpp
+	"hashTable.h"
+
+1292534025 c:\documents and settings\user\my documents\projectna7\hashtable.h
+	<iostream>
+	<string>
+
+1293479418 source:c:\documents and settings\user\my documents\projectna7\main.cpp
+	<iostream>
+	<string>
+	"sicAssembler.h"
+	<sstream>
+
+1293479220 c:\documents and settings\user\my documents\projectna7\sicassembler.h
+	"assembler.h"
+	"sicParser.h"
+	<fstream>
+	"Instruction.h"
+	<iomanip>
+	"obcode.h"
+	<string>
+
+1293208479 c:\documents and settings\user\my documents\projectna7\assembler.h
+	"hashTable.h"
+	<string>
+	<fstream>
+	"Instruction.h"
+	"parser.h"
+	"obcode.h"
+
+1292795729 c:\documents and settings\user\my documents\projectna7\parser.h
+	<string>
+	<iostream>
+	"hashTable.h"
+	"Instruction.h"
+
+1293488470 c:\documents and settings\user\my documents\projectna7\obcode.h
+	<string>
+
+1292000855 c:\documents and settings\user\my documents\projectna7\sicparser.h
+	"hashTable.h"
+	"parser.h"
+
+1293488455 source:c:\documents and settings\user\my documents\projectna7\obcode.cpp
+	"obcode.h"
+	<iomanip>
+	<sstream>
+	<iostream>
+
+1292795729 source:c:\documents and settings\user\my documents\projectna7\parser.cpp
+	"parser.h"
+	"Instruction.h"
+	<string>
+	<iostream>
+	<fstream>
+
+1293489826 source:c:\documents and settings\user\my documents\projectna7\sicassembler.cpp
+	"sicAssembler.h"
+	<string.h>
+	"hashTable.h"
+	"sicParser.h"
+	<fstream>
+	<iomanip>
+	<iostream>
+	<sstream>
+
+1292364038 source:c:\documents and settings\user\my documents\projectna7\sicparser.cpp
+	"sicParser.h"
+	"hashTable.h"
+	<string>
+
+1292590922 source:c:\documents and settings\user\my documents\projectna7\sicxeassembler.cpp
+	"sicxeAssembler.h"
+	<string>
+	"hashTable.h"
+	"sicParser.h"
+
+1292410044 c:\documents and settings\user\my documents\projectna7\sicxeassembler.h
+	"assembler.h"
+	<string>
+	"sicxeParser.h"
+	<fstream>
+	"Instruction.h"
+
+1292537711 c:\documents and settings\user\my documents\projectna7\sicxeparser.h
+	"hashTable.h"
+	"parser.h"
+
+1292785478 source:c:\documents and settings\user\my documents\projectna7\sicxeparser.cpp
+	"sicxeParser.h"
+	"hashTable.h"
+	<string>
+
+1293704710 source:c:\users\user\documents\code blocks\projectna7\instruction.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<iomanip>
+	"Instruction.h"
+
+1292410125 c:\users\user\documents\code blocks\projectna7\instruction.h
+	<iostream>
+	<string>
+
+1292534247 source:c:\users\user\documents\code blocks\projectna7\hashtable.cpp
+	"hashTable.h"
+
+1292534025 c:\users\user\documents\code blocks\projectna7\hashtable.h
+	<iostream>
+	<string>
+
+1293704741 source:c:\users\user\documents\code blocks\projectna7\main.cpp
+	<iostream>
+	<string>
+	"sicxeAssembler.h"
+	<sstream>
+
+1293652008 c:\users\user\documents\code blocks\projectna7\sicassembler.h
+	"assembler.h"
+	"sicParser.h"
+	<fstream>
+	"Instruction.h"
+	<iomanip>
+	"obcode.h"
+	<string>
+
+1293208479 c:\users\user\documents\code blocks\projectna7\assembler.h
+	"hashTable.h"
+	<string>
+	<fstream>
+	"Instruction.h"
+	"parser.h"
+	"obcode.h"
+
+1293649407 c:\users\user\documents\code blocks\projectna7\parser.h
+	<string>
+	<iostream>
+	"hashTable.h"
+	"Instruction.h"
+
+1293706851 c:\users\user\documents\code blocks\projectna7\obcode.h
+	<string>
+
+1293649388 c:\users\user\documents\code blocks\projectna7\sicparser.h
+	"hashTable.h"
+	"parser.h"
+
+1293488455 source:c:\users\user\documents\code blocks\projectna7\obcode.cpp
+	"obcode.h"
+	<iomanip>
+	<sstream>
+	<iostream>
+
+1293708456 source:c:\users\user\documents\code blocks\projectna7\sicxeassembler.cpp
+	"sicxeAssembler.h"
+	<string>
+	"hashTable.h"
+	"sicxeParser.h"
+	<fstream>
+	<iomanip>
+	<iostream>
+	<sstream>
+
+1293705997 c:\users\user\documents\code blocks\projectna7\sicxeassembler.h
+	"assembler.h"
+	<string>
+	"sicxeParser.h"
+	<fstream>
+	"Instruction.h"
+	"sicxeObcode.h"
+
+1293649488 c:\users\user\documents\code blocks\projectna7\sicxeparser.h
+	"hashTable.h"
+	"parser.h"
+
+1293654594 source:c:\users\user\documents\code blocks\projectna7\sicxeparser.cpp
+	"sicxeParser.h"
+	"hashTable.h"
+	<string>
+
+1293649395 source:c:\users\user\documents\code blocks\projectna7\parser.cpp
+	"parser.h"
+	"Instruction.h"
+	<string>
+	<iostream>
+	<fstream>
+
+1293707799 source:c:\users\user\documents\code blocks\projectna7\sicassembler.cpp
+	"sicAssembler.h"
+	<string.h>
+	"hashTable.h"
+	"sicParser.h"
+	<fstream>
+	<iomanip>
+	<iostream>
+	<sstream>
+
+1293650026 source:c:\users\user\documents\code blocks\projectna7\sicparser.cpp
+	"sicParser.h"
+	"hashTable.h"
+	<string>
+
+1293708387 c:\users\user\documents\code blocks\projectna7\sicxeobcode.h
+	<string>
+	"obcode.h"
+
+1293712059 source:c:\users\user\documents\code blocks\projectna7\sicxeobcode.cpp
+	"sicxeObcode.h"
+	<iomanip>
+	<sstream>
+	<iostream>
+
+1293801350 source:c:\documents and settings\isot\desktop\projectna8\instruction.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<iomanip>
+	"Instruction.h"
+
+1292410125 c:\documents and settings\isot\desktop\projectna8\instruction.h
+	<iostream>
+	<string>
+
+1292534247 source:c:\documents and settings\isot\desktop\projectna8\hashtable.cpp
+	"hashTable.h"
+
+1293805459 c:\documents and settings\isot\desktop\projectna8\hashtable.h
+	<iostream>
+	<string>
+
+1293799587 source:c:\documents and settings\isot\desktop\projectna8\main.cpp
+	<iostream>
+	<string>
+	"sicAssembler.h"
+	<sstream>
+
+1293705997 c:\documents and settings\isot\desktop\projectna8\sicxeassembler.h
+	"assembler.h"
+	<string>
+	"sicxeParser.h"
+	<fstream>
+	"Instruction.h"
+	"sicxeObcode.h"
+
+1293208479 c:\documents and settings\isot\desktop\projectna8\assembler.h
+	"hashTable.h"
+	<string>
+	<fstream>
+	"Instruction.h"
+	"parser.h"
+	"obcode.h"
+
+1293649407 c:\documents and settings\isot\desktop\projectna8\parser.h
+	<string>
+	<iostream>
+	"hashTable.h"
+	"Instruction.h"
+
+1293706851 c:\documents and settings\isot\desktop\projectna8\obcode.h
+	<string>
+
+1293649488 c:\documents and settings\isot\desktop\projectna8\sicxeparser.h
+	"hashTable.h"
+	"parser.h"
+
+1293749148 c:\documents and settings\isot\desktop\projectna8\sicxeobcode.h
+	<string>
+	"obcode.h"
+
+1293488455 source:c:\documents and settings\isot\desktop\projectna8\obcode.cpp
+	"obcode.h"
+	<iomanip>
+	<sstream>
+	<iostream>
+
+1293649395 source:c:\documents and settings\isot\desktop\projectna8\parser.cpp
+	"parser.h"
+	"Instruction.h"
+	<string>
+	<iostream>
+	<fstream>
+
+1293801209 source:c:\documents and settings\isot\desktop\projectna8\sicassembler.cpp
+	"sicAssembler.h"
+	<string.h>
+	"hashTable.h"
+	"sicParser.h"
+	<fstream>
+	<iomanip>
+	<iostream>
+	<sstream>
+
+1293652008 c:\documents and settings\isot\desktop\projectna8\sicassembler.h
+	"assembler.h"
+	"sicParser.h"
+	<fstream>
+	"Instruction.h"
+	<iomanip>
+	"obcode.h"
+	<string>
+
+1293649388 c:\documents and settings\isot\desktop\projectna8\sicparser.h
+	"hashTable.h"
+	"parser.h"
+
+1293800963 source:c:\documents and settings\isot\desktop\projectna8\sicparser.cpp
+	"sicParser.h"
+	"hashTable.h"
+	<string>
+
+1293654594 source:c:\documents and settings\isot\desktop\projectna8\sicxeparser.cpp
+	"sicxeParser.h"
+	"hashTable.h"
+	<string>
+
+1293801258 source:c:\documents and settings\isot\desktop\projectna8\sicxeassembler.cpp
+	"sicxeAssembler.h"
+	<string>
+	"hashTable.h"
+	"sicxeParser.h"
+	<fstream>
+	<iomanip>
+	<iostream>
+	<sstream>
+
+1293801350 source:c:\documents and settings\isot\desktop\projectna8\sicxeobcode.cpp
+	"sicxeObcode.h"
+	<iomanip>
+	<sstream>
+	<iostream>
+
+1293801352 source:c:\documents and settings\user\my documents\projectna8\instruction.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<iomanip>
+	"Instruction.h"
+
+1292410126 c:\documents and settings\user\my documents\projectna8\instruction.h
+	<iostream>
+	<string>
+
+1293805678 source:c:\documents and settings\user\my documents\projectna8\hashtable.cpp
+	"hashTable.h"
+
+1293805460 c:\documents and settings\user\my documents\projectna8\hashtable.h
+	<iostream>
+	<string>
+
+1293806464 source:c:\documents and settings\user\my documents\projectna8\loader.cpp
+	"loader.h"
+
+1293807556 c:\documents and settings\user\my documents\projectna8\loader.h
+	<string>
+
+1293829319 source:c:\documents and settings\user\my documents\projectna8\main.cpp
+	<iostream>
+	<string>
+	"sicAssembler.h"
+	<sstream>
+	<list>
+
+1293829319 c:\documents and settings\user\my documents\projectna8\sicassembler.h
+	"assembler.h"
+	"sicParser.h"
+	<fstream>
+	"Instruction.h"
+	<iomanip>
+	"obcode.h"
+	<string>
+
+1293208480 c:\documents and settings\user\my documents\projectna8\assembler.h
+	"hashTable.h"
+	<string>
+	<fstream>
+	"Instruction.h"
+	"parser.h"
+	"obcode.h"
+
+1293808856 c:\documents and settings\user\my documents\projectna8\parser.h
+	<string>
+	<iostream>
+	"hashTable.h"
+	"Instruction.h"
+
+1293706852 c:\documents and settings\user\my documents\projectna8\obcode.h
+	<string>
+
+1293808856 c:\documents and settings\user\my documents\projectna8\sicparser.h
+	"hashTable.h"
+	"parser.h"
+
+1293488456 source:c:\documents and settings\user\my documents\projectna8\obcode.cpp
+	"obcode.h"
+	<iomanip>
+	<sstream>
+	<iostream>
+
+1293649396 source:c:\documents and settings\user\my documents\projectna8\parser.cpp
+	"parser.h"
+	"Instruction.h"
+	<string>
+	<iostream>
+	<fstream>
+
+1293833001 source:c:\documents and settings\user\my documents\projectna8\sicassembler.cpp
+	"sicAssembler.h"
+	<string.h>
+	"hashTable.h"
+	"sicParser.h"
+	<fstream>
+	<iomanip>
+	<iostream>
+	<sstream>
+
+1293805672 source:c:\documents and settings\user\my documents\projectna8\sicxeassembler.cpp
+	"sicxeAssembler.h"
+	<string>
+	"hashTable.h"
+	"sicxeParser.h"
+	<fstream>
+	<iomanip>
+	<iostream>
+	<sstream>
+
+1293705998 c:\documents and settings\user\my documents\projectna8\sicxeassembler.h
+	"assembler.h"
+	<string>
+	"sicxeParser.h"
+	<fstream>
+	"Instruction.h"
+	"sicxeObcode.h"
+
+1293649490 c:\documents and settings\user\my documents\projectna8\sicxeparser.h
+	"hashTable.h"
+	"parser.h"
+
+1293749150 c:\documents and settings\user\my documents\projectna8\sicxeobcode.h
+	<string>
+	"obcode.h"
+
+1293801352 source:c:\documents and settings\user\my documents\projectna8\sicxeobcode.cpp
+	"sicxeObcode.h"
+	<iomanip>
+	<sstream>
+	<iostream>
+
+1293654596 source:c:\documents and settings\user\my documents\projectna8\sicxeparser.cpp
+	"sicxeParser.h"
+	"hashTable.h"
+	<string>
+
+1293809659 source:c:\documents and settings\user\my documents\projectna8\sicparser.cpp
+	"sicParser.h"
+	"hashTable.h"
+	<string>
+
+1293801352 source:c:\users\sameh\desktop\new folder (2)\projectna8a\instruction.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<iomanip>
+	"Instruction.h"
+
+1292410126 c:\users\sameh\desktop\new folder (2)\projectna8a\instruction.h
+	<iostream>
+	<string>
+
+1293805678 source:c:\users\sameh\desktop\new folder (2)\projectna8a\hashtable.cpp
+	"hashTable.h"
+
+1293805460 c:\users\sameh\desktop\new folder (2)\projectna8a\hashtable.h
+	<iostream>
+	<string>
+
+1293806464 source:c:\users\sameh\desktop\new folder (2)\projectna8a\loader.cpp
+	"loader.h"
+
+1293807558 c:\users\sameh\desktop\new folder (2)\projectna8a\loader.h
+	<string>
+
+1293488456 source:c:\users\sameh\desktop\new folder (2)\projectna8a\obcode.cpp
+	"obcode.h"
+	<iomanip>
+	<sstream>
+	<iostream>
+
+1293706852 c:\users\sameh\desktop\new folder (2)\projectna8a\obcode.h
+	<string>
+
+1293649396 source:c:\users\sameh\desktop\new folder (2)\projectna8a\parser.cpp
+	"parser.h"
+	"Instruction.h"
+	<string>
+	<iostream>
+	<fstream>
+
+1293808858 c:\users\sameh\desktop\new folder (2)\projectna8a\parser.h
+	<string>
+	<iostream>
+	"hashTable.h"
+	"Instruction.h"
+
+1293834036 source:c:\users\sameh\desktop\new folder (2)\projectna8a\sicassembler.cpp
+	"sicAssembler.h"
+	<string.h>
+	"hashTable.h"
+	"sicParser.h"
+	<fstream>
+	<iomanip>
+	<iostream>
+	<sstream>
+
+1293829320 c:\users\sameh\desktop\new folder (2)\projectna8a\sicassembler.h
+	"assembler.h"
+	"sicParser.h"
+	<fstream>
+	"Instruction.h"
+	<iomanip>
+	"obcode.h"
+	<string>
+
+1293208480 c:\users\sameh\desktop\new folder (2)\projectna8a\assembler.h
+	"hashTable.h"
+	<string>
+	<fstream>
+	"Instruction.h"
+	"parser.h"
+	"obcode.h"
+
+1293808858 c:\users\sameh\desktop\new folder (2)\projectna8a\sicparser.h
+	"hashTable.h"
+	"parser.h"
+
+1293809660 source:c:\users\sameh\desktop\new folder (2)\projectna8a\sicparser.cpp
+	"sicParser.h"
+	"hashTable.h"
+	<string>
+
+1293805672 source:c:\users\sameh\desktop\new folder (2)\projectna8a\sicxeassembler.cpp
+	"sicxeAssembler.h"
+	<string>
+	"hashTable.h"
+	"sicxeParser.h"
+	<fstream>
+	<iomanip>
+	<iostream>
+	<sstream>
+
+1293705998 c:\users\sameh\desktop\new folder (2)\projectna8a\sicxeassembler.h
+	"assembler.h"
+	<string>
+	"sicxeParser.h"
+	<fstream>
+	"Instruction.h"
+	"sicxeObcode.h"
+
+1293649490 c:\users\sameh\desktop\new folder (2)\projectna8a\sicxeparser.h
+	"hashTable.h"
+	"parser.h"
+
+1293749150 c:\users\sameh\desktop\new folder (2)\projectna8a\sicxeobcode.h
+	<string>
+	"obcode.h"
+
+1293801352 source:c:\users\sameh\desktop\new folder (2)\projectna8a\sicxeobcode.cpp
+	"sicxeObcode.h"
+	<iomanip>
+	<sstream>
+	<iostream>
+
+1293654596 source:c:\users\sameh\desktop\new folder (2)\projectna8a\sicxeparser.cpp
+	"sicxeParser.h"
+	"hashTable.h"
+	<string>
+
